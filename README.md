@@ -3,7 +3,8 @@
 ### ℹ️ About Me:
 > 📚 5 Years of coding experience - always ready to learn something new <br/>
 > 🛠️ Currently exploring backend dev with `MySQL`, `Node`, and `Express.JS` <br/>
-> 🧪 Created a simple AI-Powered study tool [BioLearn.AI](https://github.com/VirreT/BioLearn-AI)
+> 🧪 Created a simple AI-Powered study tool for highschool-level biology: [BioLearn.AI](https://github.com/VirreT/BioLearn-AI) <br/>
+> 👨‍🏫 Taught scratch programming for middle-schoolers 
 
 
 ### Tech i know (***So far***):
